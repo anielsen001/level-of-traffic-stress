@@ -1,0 +1,14 @@
+# ignore everything unless added
+*
+
+# allow ignore files
+!*.*ignore
+
+!Dockerfile
+!requirements.txt
+
+!*.qmd
+!*.yml
+
+# unallow emacs backup files
+.#*
