@@ -1,0 +1,11 @@
+
+ipython
+geopandas
+matplotlib
+networkx
+numpy
+osmnx
+pandas
+pickleshare
+pytest
+tqdm

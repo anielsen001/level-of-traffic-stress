@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# explicitly allow particular files
+!Dockerfile
+!requirements.txt
